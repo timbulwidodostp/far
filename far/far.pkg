@@ -1,0 +1,4 @@
+D 'far': Fractionally resampled Anderson-Rubin test Use far With STATA 19
+D
+F far.ado
+F far.sthlp

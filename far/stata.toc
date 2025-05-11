@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p far Fractionally resampled Anderson-Rubin test Use far With STATA 19
